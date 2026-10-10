@@ -1,4 +1,4 @@
-# Tugas PBO 4: Array & ArrayList - Sistem Bank Sederhana
+# Tugas PBO 4: Array & ArrayList 
 Tugas mata kuliah Pemrograman Berorientasi Objek (PBO) untuk mengimplementasikan struktur data **Array** dan **ArrayList** menggunakan bahasa pemrograman Java.
 
 ## 👤 Identitas
