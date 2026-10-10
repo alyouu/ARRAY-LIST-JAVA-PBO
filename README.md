@@ -2,7 +2,7 @@
 Tugas mata kuliah Pemrograman Berorientasi Objek (PBO) untuk mengimplementasikan struktur data **Array** dan **ArrayList** menggunakan bahasa pemrograman Java.
 
 ## 👤 Identitas
-* **Nama**: Alya
+* **Nama**: Alya Zulfadila
 * **NIM**: F1D02510102
 * **Program Studi**: Teknik Informatika
 * **Universitas**: Universitas Mataram
